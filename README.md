@@ -56,5 +56,5 @@ Alguma dúvida? fala comigo! 😁
  <sub><b>Paulo Vitor de Souza</b></sub> 
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@motherfocs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/motherfocs)](https://twitter.com/motherfocs) [![Linkedin Badge](https://img.shields.io/badge/-Paulo_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulop2-vs/)](https://www.linkedin.com/in/paulop2-vs/) [![Gmail Badge](https://img.shields.io/badge/-paulo225vitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo225vitor@gmail.com)](mailto:paulo225vitor@gmail.com) [![Discord Badge](https://img.shields.io/badge/-Paulo%20Vitor%235683-lightgrey?logo=discord&logoColor=white)](https://discord.gg/Pesu4yDT)
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulop2-vs/)](https://www.linkedin.com/in/paulop2-vs/) [![Gmail Badge](https://img.shields.io/badge/-paulo225vitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo225vitor@gmail.com)](mailto:paulo225vitor@gmail.com) [![Discord Badge](https://img.shields.io/badge/-Paulo%20Vitor%235683-lightgrey?logo=discord&logoColor=white)](https://discord.gg/Pesu4yDT)
 
